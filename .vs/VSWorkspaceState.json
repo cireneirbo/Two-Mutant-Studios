@@ -3,12 +3,8 @@
     "",
     "\\assets",
     "\\assets\\css",
-    "\\assets\\sass\\base",
-    "\\assets\\sass\\components",
-    "\\assets\\sass\\layout",
-    "\\assets\\sass\\libs",
     "\\images"
   ],
-  "SelectedNode": "\\images\\nebloolo.jpg",
+  "SelectedNode": "\\assets\\css\\main.css",
   "PreviewInSolutionExplorer": false
 }
