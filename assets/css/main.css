@@ -2845,6 +2845,9 @@ input, select, textarea {
 		margin: 0 0 2rem 0;
 		padding-left: 1rem;
 	}
+		.no-bullets {
+			list-style-type: cjk-ideographic;
+		}
 
 		ul li {
 			padding-left: 0.5rem;
