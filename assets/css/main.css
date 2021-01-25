@@ -4685,6 +4685,10 @@ input, select, textarea {
 
 	}
 
-	#email-alerts {
-		text-align: center;
+#email-alerts {
+	text-align: center;
+}
+
+	#email-alerts-button {
+		font-size: 24px;
 	}
