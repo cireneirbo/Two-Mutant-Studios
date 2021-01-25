@@ -4684,3 +4684,7 @@ input, select, textarea {
 		}
 
 	}
+
+	#email-alerts {
+		text-align: center;
+	}
